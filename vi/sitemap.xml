@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//vub.github.com/vi/</loc>
+    <loc>https://vub.github.io/vi/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//vub.github.com/"
+                href="https://vub.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//vub.github.com/vi/"
+                href="https://vub.github.io/vi/"
                 />
   </url>
   
   <url>
-    <loc>//vub.github.com/vi/categories/</loc>
+    <loc>https://vub.github.io/vi/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//vub.github.com/categories/"
+                href="https://vub.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//vub.github.com/vi/categories/"
+                href="https://vub.github.io/vi/categories/"
                 />
   </url>
   
   <url>
-    <loc>//vub.github.com/vi/tags/</loc>
+    <loc>https://vub.github.io/vi/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//vub.github.com/tags/"
+                href="https://vub.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//vub.github.com/vi/tags/"
+                href="https://vub.github.io/vi/tags/"
                 />
   </url>
   
